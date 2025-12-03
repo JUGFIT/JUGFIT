@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Snake animation](https://raw.githubusercontent.com/JUGFIT/JUGFIT/output/github-snake.svg)
+![Snake animation dark](https://raw.githubusercontent.com/JUGFIT/JUGFIT/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake GIF](https://raw.githubusercontent.com/JUGFIT/JUGFIT/output/ocean.gif)
+
 <!--
 **JUGFIT/JUGFIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
