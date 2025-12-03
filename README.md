@@ -41,13 +41,6 @@ These are the primary tools and languages I use to navigate the coding ocean:
 
 ## ⚙️ Development Stats & Activity
 
-<div align="center">
-  
-  
-
-  <img src="https://streak-stats.demolab.com?user=JUGFIT&theme=dark&background=0D1117&dates=3FFFD0&ring=00BFFF&fire=00BFFF" height="180"/>
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/JUGFIT/JUGFIT/output/github-snake-dark.gif" alt="GitHub Contribution Snake" width="700">
 </p>
