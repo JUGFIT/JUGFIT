@@ -43,7 +43,7 @@ These are the primary tools and languages I use to navigate the coding ocean:
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=JUGFIT&show_icons=true&theme=dark&title_color=3FFFD0&icon_color=00BFFF&text_color=FFFFFF&bg_color=0D1117" height="180" />
+  
 
   <img src="https://streak-stats.demolab.com?user=JUGFIT&theme=dark&background=0D1117&dates=3FFFD0&ring=00BFFF&fire=00BFFF" height="180"/>
 </div>
